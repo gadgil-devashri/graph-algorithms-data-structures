@@ -2,9 +2,12 @@
 Programming language chosen - Python
 
 ## Problem statements 
-* Discover Single-source Shortest Path
-* Trace Minimum Spanning Tree 
-* Finding Strongly Connected Components
+### Discover Single-source Shortest Path :  
+  Find shortest path tree in both directed and undirected weighted graphs for a given source vertex. Assume there is no negative edge in your graph. You will print each path and path cost for a given source.
+### Trace Minimum Spanning Tree :
+  Given a connected, undirected, weighted graph, find a spanning tree using edges that minimizes the total weight. Use either Kruskal's or Prim's algorithm to find Minimum Spanning Tree (MST). You will printout edges of the tree and total cost of minimum spanning tree.
+### Finding Strongly Connected Components(SCC) :
+  Given a directed graph G with n vertices and m edges. Decompose this graph into Strongly Connected Components (SCCs) and print the components.
 
 ## Steps 
 1. Please install dependencies : Python 3, NumPy, Pandas 
