@@ -1,0 +1,16 @@
+10 14 D
+A C 3
+A H 4
+B A 5
+B G 6
+C D 7
+D F 1
+E A 2
+E I 2
+F J 3
+G I 4
+H F 1
+H G 3
+I H 5
+J C 2
+A
